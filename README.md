@@ -58,8 +58,7 @@ ai-resume-screener/
 ├── comparator.py       # Requirement extraction, matching, scoring
 ├── llm.py              # LLM client and JSON generation with retries
 ├── requirements.txt
-├── README.md
-└── screenshots/
+└── README.md
 ```
 
 ---
