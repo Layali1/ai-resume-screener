@@ -134,4 +134,4 @@ streamlit run app.py
 **Layal Al-Sharif**
 B.Sc. in Artificial Intelligence, Umm Al-Qura University
 
-🔗 [LinkedIn](www.linkedin.com/in/layal-al-sharif-993637275/) · 📧 layalalsharef@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/layal-al-sharif-993637275) · 📧 layalalsharef@gmail.com
